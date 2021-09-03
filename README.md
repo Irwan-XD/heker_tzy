@@ -1,4 +1,4 @@
-# heker_tzy
+# kntll.py
 $ pkg update && pkg upgrade
 
 $ pkg install python2
