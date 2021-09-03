@@ -1,5 +1,7 @@
 # kntll.py
-$ pkg update && pkg upgrade
+$ pkg update 
+
+$ pkg upgrade
 
 $ pkg install python2
 
@@ -9,7 +11,7 @@ $ pip install requests
 
 $ pip2 install requests
 
-$ git clone https://github.com/Fall-Xavier/kntll
+$ git clone https://github.com/Irwan-XD/kntll
 
 $ cd kntll
 
